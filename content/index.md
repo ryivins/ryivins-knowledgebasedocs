@@ -1,7 +1,7 @@
 ---
 title: Daisy Chain Media
 ---
-Daisy Chain Media is a live music media page for West Texas shows and other personal projects
+Daisy Chain Media is a live music media page for West Texas shows and other personal projects.
 
 ## Main Categories
 [[Live Sets|Live Sets]]
